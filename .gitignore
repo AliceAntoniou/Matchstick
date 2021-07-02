@@ -1,0 +1,7 @@
+*.o
+*.a
+.vscode
+vgcovr.*
+matchstick
+*.gc*
+tests_run
